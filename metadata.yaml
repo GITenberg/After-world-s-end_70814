@@ -1,0 +1,36 @@
+_repo: After-world-s-end_70814
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Williamson, Jack
+    aliases:
+    - Williamson, John Stewart
+    - Stewart, Will
+    birthdate: 1908
+    deathdate: 2006
+    gutenberg_agent_id: '31775'
+    url: http://www.gutenberg.org/2009/agents/31775
+    wikipedia: https://en.wikipedia.org/wiki/Jack_Williamson
+description: ''
+gutenberg_issued: '2023-05-20'
+identifiers:
+  gutenberg: '70814'
+language: en
+pgterms:marc904: https://archive.org/details/Marvel_v01n03_1939-02/page/n3/mode/2up
+pgterms:marc905: 20221123040821williamson
+pgterms:marc906: '1939'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bWestern Fiction Publishing Co. Inc., $c1939.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Robots -- Fiction'
+- !lcsh 'Cryptobiosis -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: After world's end
+url: http://www.gutenberg.org/ebooks/70814
