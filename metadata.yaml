@@ -1,5 +1,8 @@
 _repo: After-world-s-end_70814
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70814-h/images/cover.jpg
 creator:
   author:
     agent_name: Williamson, Jack
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31775
     wikipedia: https://en.wikipedia.org/wiki/Jack_Williamson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70814#After-world-s-end
 gutenberg_issued: '2023-05-20'
 identifiers:
   gutenberg: '70814'
